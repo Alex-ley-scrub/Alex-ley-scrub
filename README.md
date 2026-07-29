@@ -22,7 +22,8 @@ My background as a Co-founder/CEO (of [Scrub AI](https://scrub-ai.com)), my MBA,
 I am committed to using my technical skills (including contributions to open-source projects like Openpyxl [Python], Ruff [Rust], and Gritql [Rust]) to build things that matter, applying my experience to solve challenges with a positive impact:
 - https://github.com/astral-sh/ruff/commits?author=Alex-ley-scrub
 - https://github.com/biomejs/gritql/commits?author=Alex-ley-scrub
-- https://foss.heptapod.net/openpyxl/openpyxl/-/commits/branch/default?author=Alex-ley
+- https://github.com/tafia/calamine/commits?author=Alex-ley-scrub
+- https://foss.heptapod.net/openpyxl/openpyxl/-/blob/branch/default/AUTHORS.rst?plain=1#L14
 - https://github.com/iandees/aws-billing-to-slack/commits?author=Alex-ley
 - https://github.com/orgs/Scrub-AI/repositories?q=fork%3Atrue
 
